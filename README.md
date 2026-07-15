@@ -1,2 +1,2 @@
 # FTI-DSRP-PasswordStrengthResearch
-Researching Password Strength
+Researching AI's Impact on Commercial Companies
