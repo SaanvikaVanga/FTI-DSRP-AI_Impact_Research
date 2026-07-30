@@ -1,2 +1,2 @@
-# FTI-DSRP-PasswordStrengthResearch
-Researching AI's Impact on Commercial Companies
+# FTI-DSRP-AI_Impact_Research
+Researching AI's Impact on the Gaming Industry
